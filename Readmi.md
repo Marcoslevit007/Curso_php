@@ -30,4 +30,10 @@
 #Versionando meu repositorio
 
 #1-Git add .
-#Estamos adicionando todos os arquivos criados ou auterados para a minha area de estage
+#Estamos adicionando todos os arquivos criados ou auterados 
+#Que estiverem disponiveis para a minha area de estage
+
+#2- Git commit "Nomeando meu commit"
+
+#3- git push origin main
+#puchando meus arquivos e minhas alterações para o meu repositorio github
