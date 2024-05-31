@@ -33,7 +33,7 @@
 #Estamos adicionando todos os arquivos criados ou auterados 
 #Que estiverem disponiveis para a minha area de estage
 
-#2- Git commit "Nomeando meu commit"
+#2- Git commit -m "Nomeando meu commit"
 
 #3- git push origin main
 #puchando meus arquivos e minhas alterações para o meu repositorio github
