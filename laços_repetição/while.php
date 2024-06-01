@@ -1,0 +1,15 @@
+<?php
+
+//WHILE 
+/* PERCORRE UM BLOCO DE CODIGO ENQUANTO UMA CONDIÇÃO FOR verdadeira */
+$i = 1;
+while ($i < 6) {
+    echo $i;
+    $i++;
+}
+
+/* O LAÇO DE REPETIÇÃO WHILE NÃO EXECUTA UM NUMERO ESPECIFICO DE VEZES, ELE EXECUTA ENQUANTO A CONDIÇÃO FOR VERDADEIRA */
+
+echo "<hr>";
+?>
+

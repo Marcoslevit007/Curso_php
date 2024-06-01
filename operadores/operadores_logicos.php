@@ -1,0 +1,6 @@
+<?php
+
+//INICIANDO COM OPERADORES LOGICOS 
+
+
+

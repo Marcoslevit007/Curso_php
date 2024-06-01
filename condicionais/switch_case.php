@@ -1,0 +1,12 @@
+<?PHP 
+
+// USANDO A INSTRUÇÃO SWITCH
+
+switch ($a) {
+    case is_int($a):
+       echo "O VALOR ARMAZENADO É UM NUMERO INTEIRO: ".$a."<br>";
+       break; // PARA A INSTRUÇÃO ONDE A CONDIÇÃO FOR ATENDIDA
+   default:
+       echo "O VALOR ARMAZENADO NÃO É UM NUMERO INTEIRO: ".$a."<BR>";
+   }//POSSO TER MAIS DE UM CASE
+   //A INSTRUÇÃO DEFAULT É EXECUTADA QUANDO NENHUMA DAS OUTRAS CONDICIONAIS É ATENDIDA
