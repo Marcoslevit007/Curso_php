@@ -1,7 +1,7 @@
 <?php
-
+//Banco de dados PDO
 $hostname = "localhost";
-$bancodedados = "Projeto1";
+$bancodedados = "curso_php";
 $usuario = "root";
 $senha = "";
 

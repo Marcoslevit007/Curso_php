@@ -1,4 +1,4 @@
-#Ola nesta pasta nos vamos aprender a usar o git/github que é a nossa ferramenta de
+g#Ola nesta pasta nos vamos aprender a usar o git/github que é a nossa ferramenta de
 #Versionamento de codigo.
 
 
