@@ -2,8 +2,8 @@
 
 //Abrindo e lendo arquivos com afunção fopen();
 $meu_arquivo = fopen("dicionarioweb.txt", "r") or die("Não foi possivel abrir o arquivo");
-echo fread($meu_arquivo, filesize("dicionarioweb.txt"));
-fclose($meu_arquivo);
+echo fread($meu_arquivo, filesize("dicionarioweb.txt"));//A função fread faz a leitura de um arquivo aberto, precisa de dois parametros
+fclose($meu_arquivo);                                   //O segundo parametro especifica o numero maximo de bytes a serem lidos
 
 //O primeiro parametro dessa função contem o nome do arquivo
 //O segundo parametro especifica em qual modo o arquivo deve ser aberto
