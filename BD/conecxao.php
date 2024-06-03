@@ -1,5 +1,6 @@
 <?php
 //Banco de dados PDO
+//Tambem é orientado a objetos
 $hostname = "localhost";
 $bancodedados = "curso_php";
 $usuario = "root";
